@@ -6,7 +6,6 @@
 
 ## Project launch
 
--
 - install libraries in both folders:
 
 ```cmd
