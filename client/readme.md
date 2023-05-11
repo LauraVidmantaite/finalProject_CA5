@@ -1,19 +1,19 @@
-# Final project
+# Final project client side
 
 ## Requirements
 
-- Run both the client and server sides
+- Run together with server
 
 ## Project launch
 
 -
-- install libraries in both folders:
+- install libraries:
 
 ```cmd
     npm i
 ```
 
-- launch client and server side libraries with same commands:
+- lounch client side libraries:
 
 ```cmd
     npm start
